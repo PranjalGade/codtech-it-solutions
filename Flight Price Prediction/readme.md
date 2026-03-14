@@ -1,4 +1,5 @@
 ✈️ Flight Price Prediction
+
 📌 Overview
 
 This project predicts flight ticket prices using Machine Learning based on factors such as airline, source, destination, duration, and number of stops. The model helps estimate ticket prices from historical flight data.
